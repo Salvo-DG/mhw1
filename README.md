@@ -25,10 +25,3 @@ Esso prevede la replicazione di una pagina web con il solo utilizzo dei linguagg
 
 ## Utilizzo
 Una volta aperto il file [mhw1.html](mhw1.html) con il browser Chrome, è possibile esplorare il contenuto delle diverse sezioni della pagina verificando se il layout e lo stile rispettino le specifiche richieste.
-
-## Come contribuire
-Grazie per essere interessato a contribuire a questo progetto! Ci sono diverse maniere in cui puoi aiutare a migliorare questo progetto:
-
-1. Segnalare Bug: Trovato un bug o un problema? Segnala il problema  in modo che possa essere risolto il prima possibile.
-2. Proporre Migliorie: Hai delle idee per migliorare il progetto? Sentiti libero di proporre le tue idee.
-3. Aggiungere Funzionalità: Se hai le competenze necessarie, puoi implementare nuove funzionalità e inviare una pull request. Assicurati di rispettare i requisiti.
